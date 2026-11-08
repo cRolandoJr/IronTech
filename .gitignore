@@ -1,0 +1,7 @@
+.run/
+.direnv/
+result
+result-*
+.env
+.env.*
+!.env.example
